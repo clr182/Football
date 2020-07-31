@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fb2fc5badb878184ab3b339aba2d5fdb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - footballer: {instanceID: 0}
+  - hexPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
